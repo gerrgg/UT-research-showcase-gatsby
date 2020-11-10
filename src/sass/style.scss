@@ -1,0 +1,50 @@
+#layout {
+  margin: 0 auto;
+  max-width: 700px;
+  padding: 1rem;
+  padding-top: 0.5rem;
+
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    a {
+      display: inline-block;
+      font-style: normal;
+    }
+
+    h3 {
+      margin: 0.75rem;
+    }
+  }
+}
+
+#home {
+  .blog {
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+  }
+}
+
+#single {
+  .title {
+    text-align: center;
+    margin: 0.5rem;
+  }
+  .category {
+    text-align: center;
+  }
+
+  .content {
+    padding-top: 2rem;
+
+    image,
+    iframe {
+      display: block;
+      margin: 1rem auto;
+    }
+  }
+}
