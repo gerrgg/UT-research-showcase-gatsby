@@ -1,35 +1,52 @@
-import React from "react"
+import React, { useState } from "react"
 import "../sass/style.scss"
-import { rhythm } from "../utils/typography"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 
 export default function Home({ data }) {
+  const [filter, setFilter] = useState("")
+  const allPosts = data.allMarkdownRemark.edges.map(post => post.node)
+
+  const postsToShow = !filter
+    ? allPosts
+    : allPosts.filter(post =>
+        post.frontmatter.title.toLowerCase().includes(filter.toLowerCase())
+      )
+
   return (
     <Layout>
       <div id="home">
         <Title />
-        <PostCount count={data.allMarkdownRemark.totalCount} />
-        {data.allMarkdownRemark.edges.map(({ node }) => (
-          <Post node={node} />
-        ))}
+        <Filter filter={filter} setFilter={setFilter} />
+        <PostCount count={postsToShow.length} />
+        {postsToShow.map(post => {
+          return <Post key={post.id} post={post} />
+        })}
       </div>
     </Layout>
   )
 }
 
-const Title = () => <h1 className="title">Showcase</h1>
+const Filter = ({ filter, setFilter }) => (
+  <p>
+    Filter: <input onChange={e => setFilter(e.target.value)} value={filter} />
+    <button onClick={() => setFilter("")}>Clear</button>
+  </p>
+)
+
+const Title = () => <h1 className="title">UT Research Articles</h1>
 const PostCount = ({ count }) => <h4>{count} Posts</h4>
 
-const Post = ({ node }) => {
+const Post = ({ post }) => {
+  console.log(post)
   return (
-    <div className="blog" key={node.id}>
-      <Link to={node.fields.slug}>
+    <div className="blog">
+      <Link to={post.fields.slug}>
         <h3>
-          {node.frontmatter.title} <span>— {node.frontmatter.date}</span>
+          {post.frontmatter.title} <span>— {post.frontmatter.date}</span>
         </h3>
-        <p>{node.excerpt}</p>
-        <p className="timeToRead">{node.timeToRead} minute read</p>
+        <p>{post.excerpt}</p>
+        <p className="timeToRead">{post.timeToRead} minute read</p>
       </Link>
     </div>
   )
