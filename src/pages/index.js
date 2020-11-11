@@ -25,7 +25,10 @@ export default function Home({ data }) {
           postsToShow.map(post => <Post key={post.id} post={post} />)
         ) : (
           <p>
-            No Results... <span role="img">😓</span>
+            No Results...{" "}
+            <span role="img" aria-label="sad">
+              😓
+            </span>
           </p>
         )}
       </div>
@@ -43,7 +46,7 @@ const Filter = ({ filter, setFilter }) => (
 const Title = () => <h1 className="title">UT Research Articles</h1>
 const PostCount = ({ count }) => <h4>{count} Posts</h4>
 const PostDate = ({ date }) => (
-  <span> — {moment(date).format("MMM Do YYYY")}</span>
+  <span> — {moment(date).format("MMMM Do YYYY")}</span>
 )
 
 const PostCategory = ({ category }) => {
