@@ -1,6 +1,6 @@
 --- 
 title: Research Visualized
-date: Sep 27, 2016
+date: 2016-8-27
 category: Cockrell School of Engineering
 ---
 

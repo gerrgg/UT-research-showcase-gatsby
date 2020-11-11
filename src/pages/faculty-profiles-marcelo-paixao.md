@@ -1,6 +1,6 @@
 --- 
 title: Faculty Profiles| Marcelo Paixão
-date: May 27, 2016
+date: 2016-4-27
 category: Teresa Lozano Long Institute of Latin American Studies | College of Liberal Arts
 ---
 

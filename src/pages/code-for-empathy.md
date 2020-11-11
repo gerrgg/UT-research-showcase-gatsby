@@ -1,6 +1,6 @@
 --- 
 title: Code for Empathy
-date: Dec 17, 2019
+date: 2019-11-17
 category: Department of Computer Science | College of Natural Sciences
 ---
 

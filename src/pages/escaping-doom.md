@@ -1,6 +1,6 @@
 --- 
 title: Escaping Doom
-date: Oct 20, 2020
+date: 2020-9-20
 category: College of Fine Arts
 ---
 

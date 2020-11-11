@@ -1,6 +1,6 @@
 --- 
 title: State of Science
-date: Oct 22, 2018
+date: 2018-9-22
 category: Texas Advanced Computing Center | Office of the Vice President for Research
 ---
 

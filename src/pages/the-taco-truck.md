@@ -1,6 +1,6 @@
 --- 
 title: The Taco Truck
-date: Nov 19, 2019
+date: 2019-10-19
 category: Department of Geography & the Environment | College of Liberal Arts
 ---
 

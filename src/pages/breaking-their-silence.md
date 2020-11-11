@@ -1,6 +1,6 @@
 --- 
 title: Breaking their Silence
-date: Nov 22, 2016
+date: 2016-10-22
 category: Department of English | College of Liberal Arts
 ---
 

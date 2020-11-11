@@ -1,6 +1,6 @@
 --- 
 title: New View
-date: Nov 17, 2017
+date: 2017-10-17
 category: Department of Biomedical Engineering | Cockrell School of Engineering
 ---
 

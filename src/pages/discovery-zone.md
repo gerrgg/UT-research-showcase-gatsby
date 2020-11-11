@@ -1,6 +1,6 @@
 --- 
 title: Discovery Zone
-date: Mar 16, 2020
+date: 2020-2-16
 category: College of Natural Sciences
 ---
 

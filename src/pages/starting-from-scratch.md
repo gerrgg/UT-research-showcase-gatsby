@@ -1,6 +1,6 @@
 --- 
 title: Starting from Scratch
-date: Sep 02, 2016
+date: 2016-8-2
 category: Cockrell School of Engineering
 ---
 

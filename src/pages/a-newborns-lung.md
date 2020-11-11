@@ -1,6 +1,6 @@
 --- 
 title: A Newborn's Lung
-date: Mar 07, 2019
+date: 2019-2-7
 category: Texas Advanced Computing Center | Office of the Vice President for Research
 ---
 

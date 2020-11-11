@@ -1,6 +1,6 @@
 --- 
 title: The Color Complex
-date: Sep 30, 2020
+date: 2020-8-30
 category: Moody College of Communication
 ---
 

@@ -1,6 +1,6 @@
 --- 
 title: Science in Motion
-date: Mar 09, 2020
+date: 2020-2-9
 category: College of Natural Sciences
 ---
 

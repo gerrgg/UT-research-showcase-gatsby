@@ -1,6 +1,6 @@
 --- 
 title: Green Activism
-date: Nov 01, 2016
+date: 2016-10-1
 category: Moody College of Communication
 ---
 

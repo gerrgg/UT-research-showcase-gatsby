@@ -1,6 +1,6 @@
 --- 
 title: Removing Barriers
-date: Oct 03, 2016
+date: 2016-9-3
 category: College of Education
 ---
 

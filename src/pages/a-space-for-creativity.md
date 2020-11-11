@@ -1,6 +1,6 @@
 --- 
 title: A Space for Creativity
-date: Sep 01, 2019
+date: 2019-8-1
 category: College of Fine Arts
 ---
 

@@ -1,6 +1,6 @@
 --- 
 title: Ukraine’s Social Media Presidency
-date: May 05, 2020
+date: 2020-4-5
 category: Center for Russian, East European & Eurasian Studies | College of Liberal Arts
 ---
 

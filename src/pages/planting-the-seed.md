@@ -1,6 +1,6 @@
 --- 
 title: Planting the Seed
-date: Aug 11, 2016
+date: 2016-7-11
 category: School of Social Work
 ---
 

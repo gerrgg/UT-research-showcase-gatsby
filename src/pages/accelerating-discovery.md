@@ -1,6 +1,6 @@
 --- 
 title: Accelerating Discovery
-date: Dec 01, 2017
+date: 2017-11-1
 category: McKetta Department of Chemical Engineering | Cockrell School of Engineering
 ---
 

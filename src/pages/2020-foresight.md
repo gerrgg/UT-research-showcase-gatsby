@@ -1,6 +1,6 @@
 --- 
 title: 20/20 Foresight
-date: Mar 13, 2020
+date: 2020-2-13
 category: College of Natural Sciences
 ---
 

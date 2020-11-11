@@ -1,6 +1,6 @@
 --- 
 title: Fueled by Physics
-date: Mar 10, 2017
+date: 2017-2-10
 category: Department of Physics | College of Natural Sciences
 ---
 

@@ -1,6 +1,6 @@
 --- 
 title: Stampede Supercomputer Skyrocketed Science
-date: Jul 21, 2017
+date: 2017-6-21
 category: Texas Advanced Computing Center | Office of the Vice President for Research
 ---
 

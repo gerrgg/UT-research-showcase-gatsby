@@ -1,6 +1,6 @@
 --- 
 title: Our Hidden Gem
-date: Dec 12, 2018
+date: 2018-11-12
 category: Cockrell School of Engineering
 ---
 

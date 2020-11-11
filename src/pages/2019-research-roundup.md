@@ -1,6 +1,6 @@
 --- 
 title: 2019 Research Roundup
-date: Dec 17, 2019
+date: 2019-11-17
 category: Jackson School of Geosciences
 ---
 

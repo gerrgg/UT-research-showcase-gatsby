@@ -1,6 +1,6 @@
 --- 
 title: The Personnel Component
-date: Apr 29, 2019
+date: 2019-3-29
 category: Department of Management | McCombs School of Business
 ---
 

@@ -1,6 +1,6 @@
 --- 
 title: Signaling to Tumors
-date: Feb 27, 2017
+date: 2017-1-27
 category: Department of Molecular Biosciences | College of Natural Sciences
 ---
 

@@ -1,6 +1,6 @@
 --- 
 title: Disparities in Health
-date: May 02, 2017
+date: 2017-4-2
 category: Department of Human Development & Family Sciences | College of Natural Sciences
 ---
 

@@ -1,6 +1,6 @@
 --- 
 title: The Mating Game
-date: Feb 11, 2019
+date: 2019-1-11
 category: Department of Integrative Biology | College of Natural Sciences
 ---
 

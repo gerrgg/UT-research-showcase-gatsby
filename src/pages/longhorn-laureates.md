@@ -1,6 +1,6 @@
 --- 
 title: Longhorn Laureates
-date: Dec 09, 2019
+date: 2019-11-9
 category: Office of the President
 ---
 

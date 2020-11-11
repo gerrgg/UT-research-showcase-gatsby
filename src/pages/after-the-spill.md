@@ -1,6 +1,6 @@
 --- 
 title: After the Spill
-date: Mar 20, 2020
+date: 2020-2-20
 category: Marine Science Institute | College of Natural Sciences
 ---
 

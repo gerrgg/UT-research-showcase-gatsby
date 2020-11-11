@@ -1,6 +1,6 @@
 --- 
 title: Underwater Robotics
-date: Sep 12, 2016
+date: 2016-8-12
 category: Applied Research Laboratories | Office of the Vice President for Research
 ---
 

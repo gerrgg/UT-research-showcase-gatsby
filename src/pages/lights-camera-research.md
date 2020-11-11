@@ -1,6 +1,6 @@
 --- 
 title: Lights – Camera - Research!
-date: Feb 15, 2016
+date: 2016-1-15
 category: School of Undergraduate Studies
 ---
 

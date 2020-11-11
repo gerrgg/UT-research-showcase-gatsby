@@ -1,6 +1,6 @@
 --- 
 title: Perrone Recognized Nationally
-date: Aug 16, 2017
+date: 2017-7-16
 category: Office of the Vice President for Research
 ---
 

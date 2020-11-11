@@ -1,6 +1,6 @@
 --- 
 title: Froggy Went a Courtin'
-date: Aug 27, 2015
+date: 2015-7-27
 category: Department of Integrative Biology | College of Natural Sciences
 ---
 

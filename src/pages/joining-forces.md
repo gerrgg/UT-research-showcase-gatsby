@@ -1,6 +1,6 @@
 --- 
 title: Joining Forces
-date: Sep 02, 2019
+date: 2019-8-2
 category: Cockrell School of Engineering
 ---
 

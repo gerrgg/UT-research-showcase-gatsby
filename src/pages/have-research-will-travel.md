@@ -1,6 +1,6 @@
 --- 
 title: Have Research, Will Travel
-date: May 28, 2019
+date: 2019-4-28
 category: Office of the President
 ---
 

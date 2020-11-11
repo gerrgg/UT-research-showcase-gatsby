@@ -1,6 +1,6 @@
 --- 
 title: Virtual Training Ground
-date: Jan 23, 2019
+date: 2019-0-23
 category: Moody College of Communication
 ---
 

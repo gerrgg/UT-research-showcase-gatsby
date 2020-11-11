@@ -1,6 +1,6 @@
 --- 
 title: Mars Geology Missions
-date: Nov 07, 2017
+date: 2017-10-7
 category: Institute for Geophysics | Jackson School of Geosciences
 ---
 

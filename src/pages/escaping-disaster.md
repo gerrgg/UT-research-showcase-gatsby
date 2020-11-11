@@ -1,6 +1,6 @@
 --- 
 title: Escaping Disaster
-date: Jun 09, 2020
+date: 2020-5-9
 category: Office of the Vice President for Research
 ---
 

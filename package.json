@@ -11,6 +11,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
+    "deploy": "surge public/ http://excellent-donkey.surge.sh/",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
@@ -21,6 +22,7 @@
     "gatsby-plugin-typography": "^2.5.13",
     "gatsby-source-filesystem": "^2.4.2",
     "gatsby-transformer-remark": "^2.9.2",
+    "moment": "^2.29.1",
     "node-sass": "^4.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",

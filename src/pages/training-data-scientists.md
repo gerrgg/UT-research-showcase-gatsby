@@ -1,6 +1,6 @@
 --- 
 title: Training Data Scientists
-date: Oct 25, 2019
+date: 2019-9-25
 category: Center for Petroleum & Geosystems Engineering | Cockrell School of Engineering
 ---
 

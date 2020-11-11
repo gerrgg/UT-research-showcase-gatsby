@@ -1,6 +1,6 @@
 --- 
 title: Volcano Forensics
-date: Aug 25, 2015
+date: 2015-7-25
 category: Jackson School of Geosciences
 ---
 

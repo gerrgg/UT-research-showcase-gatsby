@@ -1,6 +1,6 @@
 --- 
 title: Delivering A Better Life
-date: Dec 08, 2017
+date: 2017-11-8
 category: Cockrell School of Engineering
 ---
 

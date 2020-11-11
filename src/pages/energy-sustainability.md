@@ -1,6 +1,6 @@
 --- 
 title: Energy Sustainability
-date: Dec 09, 2019
+date: 2019-11-9
 category: Center for Petroleum & Geosystems Engineering | Cockrell School of Engineering
 ---
 

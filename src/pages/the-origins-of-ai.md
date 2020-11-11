@@ -1,6 +1,6 @@
 --- 
 title: The Origins of AI
-date: Sep 20, 2018
+date: 2018-8-20
 category: Department of Information, Risk & Operations Management | McCombs School of Business
 ---
 

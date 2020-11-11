@@ -1,6 +1,6 @@
 --- 
 title: Research Roundup
-date: Dec 01, 2015
+date: 2015-11-1
 category: Cockrell School of Engineering
 ---
 

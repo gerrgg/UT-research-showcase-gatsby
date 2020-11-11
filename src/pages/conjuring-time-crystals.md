@@ -1,6 +1,6 @@
 --- 
 title: Conjuring Time Crystals
-date: Feb 05, 2018
+date: 2018-1-5
 category: Department of Physics | College of Natural Sciences
 ---
 

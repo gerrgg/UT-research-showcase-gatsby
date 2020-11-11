@@ -1,6 +1,6 @@
 --- 
 title: Programming the Future
-date: Mar 10, 2016
+date: 2016-2-10
 category: STEM Center | College of Education
 ---
 

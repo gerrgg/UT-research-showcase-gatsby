@@ -1,6 +1,6 @@
 --- 
 title: The Cost of Crime
-date: Nov 18, 2016
+date: 2016-10-18
 category: Department of Sociology | College of Liberal Arts
 ---
 

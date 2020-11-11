@@ -1,6 +1,6 @@
 --- 
 title: Simulating Seasons
-date: Apr 27, 2015
+date: 2015-3-27
 category: Texas Advanced Computing Center | Office of the Vice President for Research
 ---
 

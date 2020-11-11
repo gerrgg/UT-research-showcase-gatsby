@@ -1,6 +1,6 @@
 --- 
 title: Helping Modernize Our Military
-date: May 24, 2019
+date: 2019-4-24
 category: Office of the President
 ---
 

@@ -1,6 +1,6 @@
 --- 
 title: Instant Answers for Cancer
-date: Nov 08, 2018
+date: 2018-10-8
 category: Department of Chemistry | College of Natural Sciences
 ---
 

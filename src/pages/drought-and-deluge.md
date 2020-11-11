@@ -1,6 +1,6 @@
 --- 
 title: Drought and Deluge
-date: Nov 02, 2015
+date: 2015-10-2
 category: Bureau of Economic Geology | Jackson School of Geosciences
 ---
 

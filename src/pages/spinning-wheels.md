@@ -1,6 +1,6 @@
 --- 
 title: Spinning Wheels
-date: Dec 01, 2015
+date: 2015-11-1
 category: Department of Civil, Architectural & Environmental Engineering | Cockrell School of Engineering
 ---
 

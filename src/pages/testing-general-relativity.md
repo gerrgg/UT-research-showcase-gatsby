@@ -1,6 +1,6 @@
 --- 
 title: Testing General Relativity
-date: Nov 18, 2015
+date: 2015-10-18
 category: Department of Physics | College of Natural Sciences
 ---
 

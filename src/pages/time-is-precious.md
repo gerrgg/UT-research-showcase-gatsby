@@ -1,6 +1,6 @@
 --- 
 title: Time is precious
-date: Apr 21, 2020
+date: 2020-3-21
 category: Department of Communication Studies | Moody College of Communication
 ---
 

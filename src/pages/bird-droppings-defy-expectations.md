@@ -1,6 +1,6 @@
 --- 
 title: Bird Droppings Defy Expectations
-date: Sep 24, 2019
+date: 2019-8-24
 category: Department of Geological Sciences | Jackson School of Geosciences
 ---
 

@@ -1,6 +1,6 @@
 --- 
 title: Quasar Answers
-date: Jan 02, 2017
+date: 2017-0-2
 category: Department of Astronomy | College of Natural Sciences
 ---
 

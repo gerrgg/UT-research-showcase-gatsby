@@ -1,6 +1,6 @@
 --- 
 title: Quantum Computing
-date: Jan 29, 2018
+date: 2018-0-29
 category: Department of Physics | College of Natural Sciences
 ---
 
