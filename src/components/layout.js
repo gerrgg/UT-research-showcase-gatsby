@@ -20,7 +20,20 @@ export default function Layout({ children }) {
         <Link to={`/`}>
           <h3>{data.site.siteMetadata.title}</h3>
         </Link>
-        <Link to={`/about/`}>About</Link>
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://github.com/gerrgg/my-first-gatsby-site/tree/main/src"
+        >
+          Source Code
+        </a>
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://github.com/gerrgg/extract-articles#extract-articles"
+        >
+          How I Scraped the Articles
+        </a>
       </header>
       {children}
     </div>
