@@ -26,6 +26,11 @@
       text-decoration: none;
       color: inherit;
     }
+
+    .timeToRead {
+      color: #666;
+      padding: 0.15rem;
+    }
   }
 }
 
@@ -41,7 +46,7 @@
   .content {
     padding-top: 2rem;
 
-    image,
+    img,
     iframe {
       display: block;
       margin: 1rem auto;

@@ -18,7 +18,7 @@ export default function Home({ data }) {
   )
 }
 
-const Title = () => <h1 className="title">Amazing Pandas Eating Things</h1>
+const Title = () => <h1 className="title">Showcase</h1>
 const PostCount = ({ count }) => <h4>{count} Posts</h4>
 
 const Post = ({ node }) => {
@@ -29,6 +29,7 @@ const Post = ({ node }) => {
           {node.frontmatter.title} <span>— {node.frontmatter.date}</span>
         </h3>
         <p>{node.excerpt}</p>
+        <p className="timeToRead">{node.timeToRead} minute read</p>
       </Link>
     </div>
   )
@@ -43,12 +44,13 @@ export const query = graphql`
           id
           frontmatter {
             title
-            date(formatString: "DD MMMM, YYYY")
+            date
           }
           fields {
             slug
           }
           excerpt
+          timeToRead
         }
       }
     }

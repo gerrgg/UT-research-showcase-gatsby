@@ -1,0 +1,21 @@
+--- 
+title: One of a Kind
+date: Dec 03, 2018
+category: Cockrell School of Engineering
+---
+
+One million terajoules — that’s how much energy humankind uses each day. The Palo Verde Nuclear Generating Station in Arizona, one of the largest power stations in the world, would need to multiply its daily output 3,000 times just to keep pace with that average. To say we consume a lot of energy would be an understatement, and our global population and corresponding demand for energy will only continue to rise.
+
+To meet this extraordinary demand, we will need to cultivate a multidisciplinary approach to research and development and generate new ideas, and there is no better place for this than UT Austin — the energy university. As the nexus of energy research and education on campus, the Cockrell School can play the role of leader and matchmaker. By building a truly world-class energy engineering facility, Texas Engineering is positioned like no other to bring faculty, students, industry partners and policy experts together in ways never before imagined—to find solutions to energy challenges we don’t yet know exist.
+
+Marking the second major construction project in the Cockrell School’s master facilities plan, the Energy Engineering Building (EEB) will join the recently opened Engineering Education and Research Center (EERC) as state-of-the-art spaces built not just for one specific engineering department, but for all. Whereas the EERC serves as the school’s new home for hands-on student projects and groundbreaking research in a variety of fields, the EEB will represent a strategic investment in two of UT’s greatest strengths — its location in the nation’s premier energy state and its remarkable community of faculty and students working in energy.
+
+“We envisioned the EERC as a building that would revolutionize education and research for the Cockrell School, and I believe it is doing that,” said Alex O’Briant, associate principal at Ennead Architects — the firm behind the EERC and EEB designs. “We think the EEB can accomplish the same objective for UT’s energy community. We are excited to see how this facility will amplify the university’s expertise in an area where it’s already seen as a global leader.”
+
+Representing 9 percent of the United States’ gross domestic product—second only to health care — energy plays an influential role in our economy as well as our daily lives. This is particularly true in Texas, which not only accounts for over 35 percent of the nation’s crude oil production but also produces more wind power, natural gas and lignite coal than any other state. Unsurprisingly, the energy industry continues to be one of the top employers and generators of wealth in Texas.
+
+UT has capitalized on this geographical strength, attracting a strong community of researchers working in all areas of energy. These researchers have, in turn, attracted the best and brightest students hoping to benefit from the upward mobility offered by the energy industry. Thanks to average starting salaries like the $81,600 earned by UT Austin’s petroleum engineering undergraduates, motivated young engineers are making their dream careers a reality.
+
+The EEB will provide a centralized hub for energy on the Forty Acres, with flexible classrooms, labs and cutting-edge research spaces. A vast improvement over the current crowded and outdated facilities, the new building will give students, faculty members, researchers and energy experts a modern facility and valuable resources to accelerate energy innovation. Additionally, by attracting outside experts from other institutions and industry partners to develop breakthrough technologies, the EEB will help strengthen the school’s reputation and enhance its capacity to solve the energy challenges of the future.
+
+“We live in an increasingly global society, and the challenges surrounding energy are best addressed by bringing top experts together — regardless of their department,” said Sharon L. Wood, dean of the Cockrell School. “With the EEB, we will offer a dedicated space where these experts can collaborate on groundbreaking research and ultimately change the world. As a multidisciplinary building dedicated to one of the most important issues facing the nation and the world, the EEB represents a one-of-a-kind facility for UT.”
