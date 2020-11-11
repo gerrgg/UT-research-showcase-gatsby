@@ -21,6 +21,24 @@
 }
 
 #home {
+  .title {
+    text-align: center;
+  }
+
+  #filter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    input {
+      margin: 0 0.25rem;
+    }
+    button {
+      background-color: #ff483b;
+      color: white;
+      border: 3px solid #ff483b;
+      padding: 0.25rem 0.25rem;
+    }
+  }
   .blog {
     a {
       text-decoration: none;

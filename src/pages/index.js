@@ -20,16 +20,21 @@ export default function Home({ data }) {
         <Title />
         <Filter filter={filter} setFilter={setFilter} />
         <PostCount count={postsToShow.length} />
-        {postsToShow.map(post => {
-          return <Post key={post.id} post={post} />
-        })}
+
+        {postsToShow.length ? (
+          postsToShow.map(post => <Post key={post.id} post={post} />)
+        ) : (
+          <p>
+            No Results... <span role="img">😓</span>
+          </p>
+        )}
       </div>
     </Layout>
   )
 }
 
 const Filter = ({ filter, setFilter }) => (
-  <p>
+  <p id="filter">
     Filter: <input onChange={e => setFilter(e.target.value)} value={filter} />
     <button onClick={() => setFilter("")}>Clear</button>
   </p>
