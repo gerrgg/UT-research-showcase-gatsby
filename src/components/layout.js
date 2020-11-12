@@ -17,7 +17,7 @@ export default function Layout({ children }) {
   return (
     <div id="layout">
       <header>
-        <Link to={`/`}>
+        <Link to="/" id="logo">
           <h3>{data.site.siteMetadata.title}</h3>
         </Link>
         <a
