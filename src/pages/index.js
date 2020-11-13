@@ -94,7 +94,6 @@ const PostCategory = ({ category }) => {
 }
 
 const Post = ({ post }) => {
-  console.log(post.frontmatter)
   return (
     <div className="blog">
       <Link to={post.fields.slug}>
