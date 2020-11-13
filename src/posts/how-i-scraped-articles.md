@@ -4,7 +4,7 @@ date: 1605237848005
 category: Fullstack Gregiversity
 ---
 
-![Usage Demo](/usage-demo.gif)
+![Usage Demo](https://raw.githubusercontent.com/gerrgg/extract-articles/main/usage-demo.gif)
 
 Designed to extract artciles from UT Research Division
 

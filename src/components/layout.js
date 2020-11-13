@@ -14,12 +14,25 @@ export default function Layout({ children }) {
     `
   )
 
+  const Logo = () => {
+    const title = data.site.siteMetadata.title.split(" ")
+
+    return (
+      <Link to={`/`}>
+        <h3 className="logo">
+          <span>
+            {title[0]} {title[1]}
+          </span>{" "}
+          {title[2]}
+        </h3>
+      </Link>
+    )
+  }
+
   return (
     <div id="layout">
       <header>
-        <Link to={`/`}>
-          <h3 className="logo">{data.site.siteMetadata.title}</h3>
-        </Link>
+        <Logo />
         <a
           target="_blank"
           rel="noreferrer"

@@ -8,14 +8,14 @@ $color-primary: #bf5700;
 
   header {
     display: flex;
-    align-items: center;
+    align-items: baseline;
     justify-content: space-between;
 
-    #logo {
-      background-image: none;
-    }
-
     a {
+      &:first-child {
+        background-image: none;
+      }
+
       display: inline-block;
       font-style: normal;
       color: $color-primary;
@@ -29,7 +29,11 @@ $color-primary: #bf5700;
       );
     }
 
-    h3 {
+    h3.logo {
+      span {
+        color: $color-primary;
+        display: block;
+      }
       margin: 0.75rem;
     }
   }
@@ -51,7 +55,7 @@ $color-primary: #bf5700;
       color: $color-primary;
 
       &:hover {
-        border-color: #888;
+        border-color: #999;
       }
 
       &.selected {
