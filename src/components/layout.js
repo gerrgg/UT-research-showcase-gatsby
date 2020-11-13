@@ -27,9 +27,7 @@ export default function Layout({ children }) {
         >
           Source Code
         </a>
-        <Link to="/posts/how-i-scraped-articles/">
-          How I Scraped the Articles
-        </Link>
+        <Link to="/how-i-scraped-articles/">How I Scraped the Articles</Link>
       </header>
       {children}
     </div>
