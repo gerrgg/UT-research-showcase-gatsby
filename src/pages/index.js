@@ -2,11 +2,20 @@ import React, { useState } from "react"
 import "../sass/style.scss"
 import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
+
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faArrowUp } from "@fortawesome/free-solid-svg-icons"
+import { faArrowDown } from "@fortawesome/free-solid-svg-icons"
+
 import moment from "moment"
 
 export default function Home({ data }) {
   const [filter, setFilter] = useState("")
-  const allPosts = data.allMarkdownRemark.edges.map(post => post.node)
+  const [order, setOrder] = useState("DESC")
+
+  const allPosts = data.allMarkdownRemark.edges
+    .map(post => post.node)
+    .sort((a, b) => a.frontmatter.date < b.frontmatter.date)
 
   const postsToShow = !filter
     ? allPosts
@@ -14,12 +23,18 @@ export default function Home({ data }) {
         post.frontmatter.title.toLowerCase().includes(filter.toLowerCase())
       )
 
+  // if order is changed form ASC
+  if (order === "ASC") postsToShow.reverse()
+
   return (
     <Layout>
       <div id="home">
         <Title />
         <Filter filter={filter} setFilter={setFilter} />
-        <PostCount count={postsToShow.length} />
+        <div className="flex-even">
+          <PostCount count={postsToShow.length} />
+          <OrderButtons order={order} setOrder={setOrder} />
+        </div>
 
         {postsToShow.length ? (
           postsToShow.map(post => <Post key={post.id} post={post} />)
@@ -42,6 +57,30 @@ const Filter = ({ filter, setFilter }) => (
     <button onClick={() => setFilter("")}>Clear</button>
   </p>
 )
+
+const OrderButtons = ({ order, setOrder }) => {
+  const handleClick = () => {
+    setOrder(order === "ASC" ? "DESC" : "ASC")
+  }
+
+  return (
+    <div id="orderby">
+      Order By:
+      <button
+        className={order === "ASC" ? "selected" : null}
+        onClick={() => handleClick()}
+      >
+        <FontAwesomeIcon icon={faArrowUp} />
+      </button>
+      <button
+        className={order === "DESC" ? "selected" : null}
+        onClick={() => handleClick()}
+      >
+        <FontAwesomeIcon icon={faArrowDown} />
+      </button>
+    </div>
+  )
+}
 
 const Title = () => <h1 className="title">UT Research Articles</h1>
 const PostCount = ({ count }) => <h4>{count} Posts</h4>
@@ -75,7 +114,7 @@ const Post = ({ post }) => {
 
 export const query = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark {
       totalCount
       edges {
         node {

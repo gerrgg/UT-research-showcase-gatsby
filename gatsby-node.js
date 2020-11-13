@@ -6,7 +6,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 
   if (node.internal.type === `MarkdownRemark`) {
     // create a slug based on the markdown file path
-    const slug = createFilePath({ node, getNode, basePath: `pages` })
+    const slug = createFilePath({ node, getNode, basePath: `posts` })
 
     // create the page from that slug
     createNodeField({

@@ -18,7 +18,7 @@ export default function Layout({ children }) {
     <div id="layout">
       <header>
         <Link to={`/`}>
-          <h3>{data.site.siteMetadata.title}</h3>
+          <h3 className="logo">{data.site.siteMetadata.title}</h3>
         </Link>
         <a
           target="_blank"
@@ -27,13 +27,9 @@ export default function Layout({ children }) {
         >
           Source Code
         </a>
-        <a
-          target="_blank"
-          rel="noreferrer"
-          href="https://github.com/gerrgg/extract-articles#extract-articles"
-        >
+        <Link to="/posts/how-i-scraped-articles/">
           How I Scraped the Articles
-        </a>
+        </Link>
       </header>
       {children}
     </div>
